@@ -3,8 +3,7 @@
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=Minato-01)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top languages]
- <picture>
+[![Top languages]<picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Minato-01&langs_count=4&theme=dark_github"
       media="(prefers-color-scheme: dark)"
