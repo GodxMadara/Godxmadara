@@ -4,11 +4,11 @@
 
 
 ## GitHub stats
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=Minato-01)](https://github.com/stats-organization/github-stats-extended)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minato-01&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" /> <br>
 <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Minato-01&langs_count=4&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Minato-01&langs_count=4&theme=radical&hide_border=true"
       media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Minato-01&langs_count=4&theme=light_github" alt="Top Langs" />
+    /> 
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Minato-01&langs_count=4&theme=calm&rank" alt="Top Langs" />
   </picture>
