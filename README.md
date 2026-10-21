@@ -11,4 +11,5 @@
       media="(prefers-color-scheme: dark)"
     /> 
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Minato-01&langs_count=4&theme=calm&rank" alt="Top Langs" />
-  </picture>
+  </picture> <br>
+  [![Metrics](./github-metrics.svg)](https://github.com/Minato-01)
